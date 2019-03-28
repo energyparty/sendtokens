@@ -1,0 +1,6 @@
+{
+  "testnet": true,
+  "rpcport": 32705,
+  "rpcuser": "YourRpcUser",
+  "rpcpassword": "YourRpcPass"
+}
